@@ -1,0 +1,21 @@
+h1{
+    color:aqua;
+    background-color: red; 
+}
+/*# - seletor de ID*/
+#p1{
+    font-size: 16px;
+    color: blue;
+    background-color: black;
+}
+/*# - seletor de Class*/
+.p2{
+    font-size: 55px;
+    color:darkkhaki;
+    background-color: violet;
+}
+p{
+    font-size: 80px;
+    color:blueviolet;
+    background-color: beige;
+}
